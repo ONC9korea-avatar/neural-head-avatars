@@ -150,9 +150,7 @@ dmypy.json
 
 # project specific files
 **/.idea/*
-assets/flame/generic_model.pkl
-assets/universal_trained.pth
-assets/insight-face-v3.pt
+assets/
 **/my_configs/*
 /lightning_logs
 /experiments
